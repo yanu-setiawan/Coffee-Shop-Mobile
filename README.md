@@ -75,7 +75,8 @@
 Clone this repository by run the following code:
 
 ```
-$ git clone https://github.com/yanu-setiawan/Coffee-Shop-React-App.git
+$ git clone https://github.com/yanu-setiawan/Coffee-Shop-Mobile.git
+
 ```
 
 ### 2. Install dependency packages
