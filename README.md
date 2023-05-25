@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="./public/logo123.svg" alt="Logo" width="80" height="80">
+    <img src="./src/assets/readme.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Coffee Shop Mobile App</h2>
@@ -22,8 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,redux,babel,firebase
-" />
+    <img src="https://skillicons.dev/icons?i=react,css,redux,babel,firebase" />
   </a>
 </p>
 
@@ -148,14 +147,14 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 
 ## Documentation
 
-<img width="500" src="./src/assets/readme/1.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/2.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/3.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/4.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/5.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/6.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/7.jpg" alt="Landing page">
-<img width="500" src="./src/assets/readme/8.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/1.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/2.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/3.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/4.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/5.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/6.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/7.jpg" alt="Landing page">
+<img width="200" src="./src/assets/readme/8.jpg" alt="Landing page">
 
 
 <p align="center"> <samp><i>&copy; yanusetiawan </i></samp> </p>
