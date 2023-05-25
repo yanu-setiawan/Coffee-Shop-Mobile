@@ -1,0 +1,136 @@
+/* eslint-disable prettier/prettier */
+import {StyleSheet} from 'react-native';
+
+const styles = StyleSheet.create({
+  sectionContainer: {
+    flex: 1,
+  },
+  image: {
+    flex: 1,
+    justifyContent: 'center',
+    position: 'relative',
+  },
+  wrapText: {
+    display: 'flex',
+    flexDirection: 'column',
+    // paddingTop: ,
+    alignItems: 'flex-start',
+    justifyContent: 'flex-start',
+    marginBottom: 25,
+  },
+  text: {
+    color: 'white',
+    fontFamily: 'Poppins-Bold',
+    fontSize: 65,
+    textAlign: 'left',
+    marginBottom: 100,
+    width: '100%',
+    // marginTop: 40,
+  },
+  textBot: {
+    color: 'white',
+    fontFamily: 'Poppins-Regular',
+    fontSize: 17,
+    textAlign: 'center',
+    fontWeight: 400,
+  },
+  innerFrame: {
+    flex: 1,
+    // alignItems: 'center',
+    // justifyContent: 'center',
+    backgroundColor: 'rgba(0, 0, 0, .5)',
+    paddingTop: 54,
+    paddingBottom: 54,
+    paddingHorizontal: 31,
+  },
+  wrapBtn: {
+    width: '100%',
+    gap: 17,
+    marginTop: 25,
+  },
+  btnUp: {
+    backgroundColor: '#FFBA33',
+    justifyContent: 'center',
+    alignItems: 'center',
+    height: 70,
+    borderRadius: 20,
+  },
+  btnBot: {
+    backgroundColor: 'white',
+    justifyContent: 'center',
+    alignItems: 'center',
+    height: 70,
+    borderRadius: 20,
+    display: 'flex',
+    flexDirection: 'row',
+    gap: 15,
+  },
+  textBtnUp: {
+    // fontWeight: 'bold',
+    fontSize: 17,
+    color: '#6A4029',
+    fontFamily: 'Poppins-Bold',
+  },
+  textBtnBot: {
+    // fontWeight: 'bold',
+    fontFamily: 'Poppins-Bold',
+    fontSize: 17,
+    color: 'black',
+    display: 'flex',
+  },
+  google: {
+    display: 'flex',
+    width: 28,
+    height: 26,
+  },
+  iconEye: {
+    color: 'white',
+    position: 'absolute',
+    top: 66,
+    right: 10,
+  },
+  input: {
+    width: '100%',
+    color: 'white',
+    borderBottomColor: 'white',
+    borderBottomWidth: 2,
+    paddingBottom: 10,
+    fontFamily: 'Poppins-Bold',
+    display: 'flex',
+    flexDirection: 'column',
+    marginBottom: 20,
+  },
+  forgot: {
+    color: 'white',
+    fontFamily: 'Poppins-Bold',
+    fontSize: 12,
+    textDecorationLine: 'underline',
+    textDecorationColor: 'white',
+    textDecorationStyle: 'solid',
+    marginBottom: 8,
+  },
+  wrapView: {
+    display: 'flex',
+    flexDirection: 'row',
+    gap: 13,
+    color: 'white',
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingVertical: 15,
+  },
+  hr1: {
+    width: 90,
+    height: 2,
+    backgroundColor: 'white',
+  },
+  pHr: {
+    color: 'white',
+  },
+  hr2: {
+    width: 90,
+    height: 2,
+    backgroundColor: 'white',
+  },
+});
+
+export default styles;
