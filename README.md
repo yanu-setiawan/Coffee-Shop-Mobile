@@ -147,6 +147,7 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 
 ## Documentation
 
+<p align="center">
 <img width="200" src="./src/assets/readme/1.jpg" alt="Landing page">
 <img width="200" src="./src/assets/readme/2.jpg" alt="Landing page">
 <img width="200" src="./src/assets/readme/3.jpg" alt="Landing page">
@@ -155,6 +156,7 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 <img width="200" src="./src/assets/readme/6.jpg" alt="Landing page">
 <img width="200" src="./src/assets/readme/7.jpg" alt="Landing page">
 <img width="200" src="./src/assets/readme/8.jpg" alt="Landing page">
+</p>
 
 
 <p align="center"> <samp><i>&copy; yanusetiawan </i></samp> </p>
