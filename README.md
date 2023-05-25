@@ -132,9 +132,6 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Deployment
-
-[Vercel deploy Link](https://fazzpay-next-js.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
