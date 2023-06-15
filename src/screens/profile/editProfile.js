@@ -154,13 +154,6 @@ function EditProfile() {
           token,
         }),
       );
-      // console.log('HASIL UPDATE', result);
-      // if (result.status === 200) {
-      //   showMessage({
-      //     message: 'Upadate Profile Succes',
-      //     type: 'success',
-      //   });
-      // }
       if (
         getProfileUpdate.error?.message ===
         'Request failed with status code 403'

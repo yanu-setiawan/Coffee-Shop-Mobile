@@ -18,6 +18,14 @@
   </p>
 </div>
 
+## Contents
+
+- [Features](#features)
+- [Run Application](#how-to-run-the-application)
+- [Link Download](#download-link)
+- [Related Projects](#related-projects)
+- [Contributors](#contributors)
+
 ## Built With
 
 <p align="center">
@@ -28,13 +36,7 @@
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-## Contents
 
-- [Features](#features)
-- [Run Application](#how-to-run-the-application)
-- [Link Download](#download-link)
-- [Related Projects](#related-projects)
-- [Contributors](#contributors)
 
 ## Features
 
@@ -155,6 +157,16 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 <img width="200" src="./src/assets/readme/7.jpg" alt="Landing page">
 <img width="200" src="./src/assets/readme/8.jpg" alt="Landing page">
 </p>
+
+## License
+
+This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
+
+## Report Bug
+
+Any error report you can pull request
+or contact: <yanusetiawan363@gmail.com>
+
 
 
 <p align="center"> <samp><i>&copy; yanusetiawan </i></samp> </p>

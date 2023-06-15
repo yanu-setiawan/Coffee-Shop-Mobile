@@ -26,14 +26,13 @@ const Started = () => {
         style={styles.image}>
         <View style={styles.innerFrame}>
           <Text style={styles.text}>Coffee for Everyone</Text>
-          <TouchableOpacity style={styles.btn} activeOpacity={0.8}>
-            <Text
-              style={styles.textBtn}
-              onPress={() => {
-                navigation.navigate('Welcome');
-              }}>
-              Get Started
-            </Text>
+          <TouchableOpacity
+            style={styles.btn}
+            activeOpacity={0.8}
+            onPress={() => {
+              navigation.navigate('Welcome');
+            }}>
+            <Text style={styles.textBtn}>Get Started</Text>
           </TouchableOpacity>
         </View>
       </ImageBackground>

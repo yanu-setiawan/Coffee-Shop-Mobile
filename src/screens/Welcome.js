@@ -32,23 +32,21 @@ const Welcome = () => {
             </Text>
           </View>
           <View style={styles.wrapBtn}>
-            <TouchableOpacity style={styles.btnUp} activeOpacity={0.8}>
-              <Text
-                style={styles.textBtnUp}
-                onPress={() => {
-                  navigation.navigate('Register');
-                }}>
-                Create New Account
-              </Text>
+            <TouchableOpacity
+              style={styles.btnUp}
+              activeOpacity={0.8}
+              onPress={() => {
+                navigation.navigate('Register');
+              }}>
+              <Text style={styles.textBtnUp}>Create New Account</Text>
             </TouchableOpacity>
-            <TouchableOpacity style={styles.btnBot} activeOpacity={0.8}>
-              <Text
-                style={styles.textBtnBot}
-                onPress={() => {
-                  navigation.navigate('Login');
-                }}>
-                Login
-              </Text>
+            <TouchableOpacity
+              style={styles.btnBot}
+              activeOpacity={0.8}
+              onPress={() => {
+                navigation.navigate('Login');
+              }}>
+              <Text style={styles.textBtnBot}>Login</Text>
             </TouchableOpacity>
           </View>
         </View>
