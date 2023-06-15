@@ -27,17 +27,20 @@
 - [Related Projects](#related-projects)
 - [Contributors](#contributors)
 
+
+## About The Project
+
+<!-- ![Product Name Screen Shot][product-screenshot] -->
+
+A coffee shop app streamlines the ordering process, allowing customers to order and pay online for pickup or delivery. Users can browse menus, view hours and locations, and leave reviews. For coffee shops, features like real-time sales reporting and inventory management help boost efficiency and growth.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ### Built With
 
 - [![React][React.js]][React-url]
 - [![Redux][Redux]][Redux-url]
-
-
-
-
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 
 
 ## Features
