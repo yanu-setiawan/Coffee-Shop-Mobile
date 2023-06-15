@@ -19,20 +19,22 @@
 </div>
 
 ## Contents
-
+- [About](#about-the-project)
+- [Build With](#build-with)
 - [Features](#features)
 - [Run Application](#how-to-run-the-application)
 - [Link Download](#download-link)
 - [Related Projects](#related-projects)
 - [Contributors](#contributors)
 
-## Built With
+### Built With
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,redux,babel,firebase" />
-  </a>
-</p>
+- [![React][React.js]][React-url]
+- [![Redux][Redux]][Redux-url]
+
+
+
+
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -137,14 +139,6 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Related Projects
-
-[Coffee-Shop Website](https://github.com/yanu-setiawan/Coffee-Shop-React-App)
-
-[Coffee-Shop Backend](https://github.com/yanu-setiawan/Coffee-Shop-Backend)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Documentation
 
 <p align="center">
@@ -158,6 +152,15 @@ REACT_NATIVE_SERVER_HOST = https://example.com
 <img width="200" src="./src/assets/readme/8.jpg" alt="Landing page">
 </p>
 
+## Related Projects
+
+[Coffee-Shop Website](https://github.com/yanu-setiawan/Coffee-Shop-React-App)
+
+[Coffee-Shop Backend](https://github.com/yanu-setiawan/Coffee-Shop-Backend)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## License
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
@@ -170,3 +173,12 @@ or contact: <yanusetiawan363@gmail.com>
 
 
 <p align="center"> <samp><i>&copy; yanusetiawan </i></samp> </p>
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactnative.dev/
+[Tailwind-CSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Redux]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]: https://redux.js.org/
